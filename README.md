@@ -1,6 +1,9 @@
 # HICosmo
 
-<img src="./LOGO.png" alt="HiCosmo Logo" width="25%"/>
+<p align="center">
+  <img src="./LOGO.png" alt="HiCosmo Logo" width="25%"/>
+</p>
+
 
 ## Description
 
