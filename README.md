@@ -1,6 +1,6 @@
 # HICosmo
 
-![HiCosmo Logo](./LOGO.png = 100x100) 
+<img src="./LOGO.png" alt="HiCosmo Logo" width="25%"/>
 
 ## Description
 
