@@ -1,6 +1,6 @@
 # HICosmo
 
-![HiCosmo Logo](./LOGO.png=100x100) 
+![HiCosmo Logo](./LOGO.png = 100x100) 
 
 ## Description
 
