@@ -6,8 +6,7 @@
 
 
 ## Description
-
-**HICosmo** is a specialized Python package dedicated to exploring the cosmos through neutral hydrogen intensity mapping observations. Developed as part of a robust research initiative, this package aims to facilitate various cosmological studies, including:
+**HICosmo** is an evolving Python package dedicated to exploring the cosmos through neutral hydrogen intensity mapping observations. While still under development, this package already offers capabilities for estimating cosmological parameters using observational data. Future updates will progressively enhance its functionalities. Developed as part of a robust research initiative, this package aims to facilitate various cosmological studies, including:
 
 - **Neutral Hydrogen Mapping:** Enhancing the quality of neutral hydrogen intensity maps, mitigating the effects of foreground interference, and elevating signal reliability.
 - **Cosmic Probes:** Collaborating with multiple observations to create precise probes for exploring the universe’s late stages, focusing primarily on the elusive dark energy.
@@ -20,25 +19,6 @@
 - **Unified Constraints:** Combining diverse observational data to derive enriched cosmological insights.
 - **Cosmological Principle Verification:** Utilizing extensive datasets to scrutinize and reaffirm core cosmological doctrines.
 
-## Installation
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your_username/HiCosmo.git
-```
-
-Navigate to the directory of the cloned repository:
-
-```bash
-cd HiCosmo
-```
-
-Install the necessary dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
