@@ -23,15 +23,3 @@
 ## Usage
 
 Detailed usage instructions will be provided, including example codes and essential guidelines for effective utilization of the package's functionalities.
-
-## Contributing
-
-Contributions are welcomed! Feel free to open issues for bug reporting, feature requests, or other discussions.
-
-## License
-
-Specify your license here, commonly used licenses include MIT, GPL-3.0, and Apache-2.0.
-
----
-
-**Note:** Ensure that you customize each section according to the specifics of your project. Include the actual path to your logo, correct GitHub URL, precise installation instructions, actual usage guidelines, and a chosen license.
